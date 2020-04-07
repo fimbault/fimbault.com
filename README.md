@@ -1,2 +1,2 @@
 # fimbault.com
-Personal webpage
+Personal webpage hosted through Github pages.
